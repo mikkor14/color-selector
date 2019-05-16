@@ -4,10 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/Components/Color.js" description="    change = (values) =&gt; {&#10;        console.log(val..." line="22" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ef47df6-da29-4394-b99f-9c7dcf2e52c8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/HSLForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/HSLForm.js" afterDir="false" />
-    </list>
+    <list default="true" id="5ef47df6-da29-4394-b99f-9c7dcf2e52c8" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -58,8 +55,8 @@
       <file leaf-file-name="HSLForm.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Components/HSLForm.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+            <state relative-caret-position="161">
+              <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -123,7 +120,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="650" />
     <option name="y" value="127" />
     <option name="width" value="1185" />
@@ -214,12 +211,12 @@
       <workItem from="1557774846403" duration="3690000" />
       <workItem from="1557858298643" duration="5008000" />
       <workItem from="1558010283154" duration="113000" />
-      <workItem from="1558010482483" duration="127000" />
+      <workItem from="1558010482483" duration="170000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60988000" />
+    <option name="totallyTimeSpent" value="61031000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -421,8 +418,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/HSLForm.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        <state relative-caret-position="161">
+          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
