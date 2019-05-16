@@ -18,12 +18,12 @@ let HSLForm = ({handleSubmit, rValue, gValue, bValue, change}) => {
                 }
                 break;
             case 'sValue':
-                if (value > 1) {
+                if (value > 1 || value.length > 4) {
                     change('sValue', '');
                 }
                 break;
             case 'lValue':
-                if (value > 1) {
+                if (value > 1 || value.length > 4) {
                     change('lValue', '');
                 }
                 break;
